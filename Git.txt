@@ -17,3 +17,16 @@ A: The management of changes to documents, computer programs, large web sites, a
 
 Git Commands
 
+clone -> Bring a repository that is hosted somewhere like GitHub into a folder on your local
+machine
+
+add -> Track your files and changes in Git
+
+commit -> Save your files in Git
+
+push -> Upload Git commits to a remote repo, like GitHub
+
+pull -> Download changes from remote repo to your local machine, the opposite of push
+
+
+
