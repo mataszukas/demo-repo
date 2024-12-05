@@ -1,2 +1,1 @@
-#dema
-DEMO
+Konspektas apie Git ir Github
