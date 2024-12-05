@@ -1,0 +1,19 @@
+What is Git?
+
+A: Free and open source version control system.
+
+What is Version Control?
+
+A: The management of changes to documents, computer programs, large web sites, and other collections of information.
+
+- Directory -> Folder
+- Terminal or Command Line -> Interface for Text Commands
+- CLI -> Command Line Interface 
+- cd -> Change Directory
+- Code Editor -> Word Processor for Writing Code
+- Repository -> Project, or the folder/place where your project is kept
+- GitHub -> A website to host your repositories online
+- Git -> Tool that tracks the changes in your code over time
+
+Git Commands
+
